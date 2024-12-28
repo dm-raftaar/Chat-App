@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="chat_color_sender">#8F49F6</color>
+    <color name="chat_color_reciver">#0FC7D8</color>
+</resources>

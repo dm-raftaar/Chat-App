@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306407887335",
+    "project_id": "enigma-chat-backend",
+    "storage_bucket": "enigma-chat-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306407887335:android:87c224924bbead6314ad42",
+        "android_client_info": {
+          "package_name": "com.dm.enigmachat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZqhK7mU_kxtRjV60Oe5tJomsy_r4G1iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
